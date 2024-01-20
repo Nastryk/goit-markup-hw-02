@@ -32,6 +32,7 @@ ol {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -80,6 +81,7 @@ ol {
 .main-title {
   color: #fff;
   text-align: center;
+  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -93,6 +95,10 @@ ol {
   letter-spacing: 0.04em;
   background: #4d5ae5;
   cursor: pointer;
+}
+.main-btn:hover,
+.main-btn:focus {
+  color: #404bbf;
 }
 
 /*========================*/
@@ -184,6 +190,7 @@ ol {
 }
 
 .portfolio-list {
+  background-color: #ffffff;
 }
 
 .portfolio-item {
@@ -219,6 +226,7 @@ ol {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
