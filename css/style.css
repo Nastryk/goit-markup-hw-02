@@ -172,6 +172,7 @@ ol {
 /*==========PORTFOLIO==============*/
 
 .portfolio {
+  background: #fff;
 }
 
 .portfolio-title {
@@ -187,7 +188,6 @@ ol {
 }
 
 .portfolio-item {
-  background-color: #ffffff;
 }
 
 .portfolio-picture {
